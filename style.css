@@ -1,1 +1,6 @@
-
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.destaque{
+    background-color: yellow;
+}

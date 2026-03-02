@@ -4,6 +4,14 @@ p{
 .destaque{
     background-color: yellow;
 }
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.destaque{
+    background-color: yellow;
+}
+
 #titulo-principal{
     color: blue;
 }
+

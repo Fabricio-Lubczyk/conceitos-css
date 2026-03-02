@@ -10,9 +10,21 @@ input[type= password]{
     border-radius: 10px;
     
 }
+<<<<<<< HEAD
 p{
     font-family: 'Courier New', Courier, monospace;
 }
 #titulo-principal{
     color: blue;
 }
+=======
+
+#titulo-principal{
+    color: blue;
+}
+
+.importante{
+    color: red;
+}
+
+>>>>>>> 61f26ab0ced252ea62e0b08d4621447960d74569

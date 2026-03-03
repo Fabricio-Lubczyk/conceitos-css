@@ -17,7 +17,6 @@ p{
     color: blue;
 }
 
-
 .importante{
     color: red;
 }
@@ -29,4 +28,7 @@ button[type= submit]:hover{
 
 p::first-letter{
     font-size: 175%;
+}
+.container > div:first-of-type > p {
+    color: red;
 }

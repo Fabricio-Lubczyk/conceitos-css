@@ -32,3 +32,6 @@ p::first-letter{
 .container > div:first-of-type > p {
     color: red;
 }
+li:first-of-type{
+    font-weight: bold;
+}

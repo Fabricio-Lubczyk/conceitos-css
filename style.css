@@ -26,3 +26,7 @@ button[type= submit]:hover{
     color: aqua;
     background-color: aqua;
 }
+
+p::first-letter{
+    font-size: 175%;
+}
